@@ -1,1 +1,1 @@
-Sitemap: https://clinicians-who-code.github.io/learn-python/sitemap.xml
+Sitemap: https://clinicians-who-code.github.io/introduction-to-python-team/sitemap.xml
